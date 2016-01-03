@@ -1,0 +1,11 @@
+Displays only on what changed
+Shows you the value before and the value after
+You can go back and review the contents of a file right before the application broke
+By manually choosing, you can create commits at logical points that make sense for your situation.
+However, you might forget to commit, or make too many or to few commits
+Git is designed more for coding project, where there is a lot of dependencies between files
+Google Docs is designed more for content that is self contained within one file
+git log lists all the commits made with their descriptions
+git diff displays all the differences between two commits
+you always have a way of reverting back to a working version
+use this for my iPhone projects
