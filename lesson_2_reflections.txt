@@ -4,3 +4,9 @@ only things in the staging area may go into the repository.
 You only add things to the staging area that are logically related.
 You would use branches to create new versions of software, try new ideas out,
 create parallel versions of software.
+It helps you understand which commits are on each branch, and if something is
+unreachable..
+Merging two branches is represented the way it is because you want to show that
+the merge has two parents and both lines are reachable.
+Automatic merging makes it easy to merge files where there are no conflicts.
+Automatic merging may result in false positives, or worse, not detect collisons
