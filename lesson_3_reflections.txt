@@ -1,3 +1,6 @@
 Provides a way for multiple people to work on a project.
 Provides a backup for your code.
 You might have conflicts that overwrite some of the changes you do.
+Forks are a copy of a repository on Github to another repository on gitHub with a link back to the original repository
+Clones are copies of a respoistory wuth no relationship between the two
+Branches are a parallel line of commits within the same repository.
