@@ -1,0 +1,2 @@
+Provides a way for multiple people to work on a project.
+Provides a backup for your code.
