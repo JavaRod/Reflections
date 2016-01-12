@@ -4,3 +4,5 @@ You might have conflicts that overwrite some of the changes you do.
 Forks are a copy of a repository on Github to another repository on gitHub with a link back to the original repository
 Clones are copies of a respoistory wuth no relationship between the two
 Branches are a parallel line of commits within the same repository.
+You are able to see the diff between your changes at the latest in the repository.
+Git and github would be easier if you want to do a lot of concurrent work and maintain a stable line of code.
